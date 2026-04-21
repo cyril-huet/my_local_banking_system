@@ -2,7 +2,10 @@
 
 ![C](https://img.shields.io/badge/language-C-blue)
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-lightgrey) A minimal banking system written in C, featuring account management, transactions, and a terminal-based user interface.
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-lightgrey) 
+
+A minimal banking system written in C, featuring account management, transactions, and a terminal-based user interface.
+
 ---
 
 ## 🚀 Features
